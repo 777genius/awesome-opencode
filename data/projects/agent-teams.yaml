@@ -1,0 +1,4 @@
+name: Agent Teams
+repo: https://github.com/777genius/agent-teams-ai
+tagline: Desktop control plane for autonomous OpenCode agent teams
+description: Run and coordinate OpenCode agents from a local desktop app with Kanban tasks, inter-agent messaging, code review, logs, and approval workflows. Also supports Claude Code, Codex, Cursor, and 200+ models across 75+ providers.
